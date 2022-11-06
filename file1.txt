@@ -3,3 +3,4 @@ aggiungo qualcosa nella branch1
 faccio una modifica nella branch 1 salvo senza fare commit
 qulcosa in più va scritto
 per verificare effetto in github
+faccio una ulteriore aggiunta per vedere se chiee la pass phrase
