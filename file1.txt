@@ -3,3 +3,4 @@ aggiungo qualcosa nella branch1
 faccio una modifica nella branch 1 salvo senza fare commit
 modifico sulla branch2 dopo il merge
 branch1
+branch1
