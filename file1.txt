@@ -8,4 +8,4 @@ una nuova aggiunta
 branch main
 modifico sulla branch2 dopo il merge
 branch1
-main
+branch1
